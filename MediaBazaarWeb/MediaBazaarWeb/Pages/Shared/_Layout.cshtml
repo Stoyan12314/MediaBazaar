@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>@ViewData["Title"] - MediaBazaarWeb</title>
+   <link rel="stylesheet" href="/css/styles.css">
+</head>
+
+<body>
+     <link rel="stylesheet" href="/css/styles.css">
+    <nav class="navbar">
+        <div class="brandName">MediaBazzar</div>
+        <a href="#" class="toggle-button" >
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </a>
+        <div class="navbar-links">
+            <ul>
+                <li><a asp-page="/Index">HOME</a></li>
+                <li><a asp-page="/aboutus">ABOUT US</a></li>
+                <li><a asp-page="/Schedule">SCHEDULE</a></li>
+                <li><a  asp-page="/Employee">EMPLOYEE</a></li>
+                <li><a asp-page="/profile">PROFILE</a></li>
+                <li><a asp-page="/login">LOGIN</a></li>
+
+            </ul>
+
+        </div>
+
+        
+    </nav>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+   
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

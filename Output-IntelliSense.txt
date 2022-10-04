@@ -1,1 +1,0 @@
-﻿No TypeScript version specified by loaded projects.  Using the default Visual Studio TypeScript version 4.6 for IntelliSense.

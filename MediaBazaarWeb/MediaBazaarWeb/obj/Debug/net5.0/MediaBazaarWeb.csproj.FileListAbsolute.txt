@@ -98,3 +98,4 @@ C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\ne
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\login.cshtml.g.cs
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\profile.cshtml.g.cs
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Schedule.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout2.cshtml.g.cs

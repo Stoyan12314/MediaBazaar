@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 using DataAccessLayer.Entities;
 namespace DataAccessLayer
 {
-   public class Employees: User
+   public class Employee: User
     {
       
-        public Employees(): base()
+        public Employee(): base()
         {
          
         }
-        public Employees(int employeeID, string userName, string firstName, string lastName, string address, string password, string email, DateTime dateOfBirh, AccountType accType) : base(employeeID, userName, firstName, lastName, address, password, email, dateOfBirh, accType)
+        public Employee(int employeeID, string userName, string firstName, string lastName, string address, string password, string email, DateTime dateOfBirh, AccountType accType) : base(employeeID, userName, firstName, lastName, address, password, email, dateOfBirh, accType)
         {
           
                 
         }
-        public Employees(string userName,  Shifts shift): base(userName, shift)
+        public Employee(string userName,  Shifts shift): base(userName, shift)
         {
 
 

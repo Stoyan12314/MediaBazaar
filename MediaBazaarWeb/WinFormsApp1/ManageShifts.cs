@@ -11,9 +11,9 @@ namespace WinFormsApp1
 {
     public partial class ManageShifts : Form
     {
-        Employees employees;
+        Employee employees;
         UserDB dbUser;
-        public ManageShifts(UserDB dbUser, Employees emp)
+        public ManageShifts(UserDB dbUser, Employee emp)
         {
             InitializeComponent();
             this.dbUser = dbUser;

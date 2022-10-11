@@ -864,19 +864,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Stoyan\\.nuget\\packages\\": {}
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stoyan\\Desktop\\Group project\\MediaBazaarWeb\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Project\\MediaBazaarWeb\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project\\MediaBazaarWeb\\WinFormsApp1\\WinFormsApp1.csproj",
-      "packagesPath": "C:\\Users\\Stoyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stoyan\\Desktop\\Group project\\MediaBazaarWeb\\WinFormsApp1\\obj\\",
+      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Project\\MediaBazaarWeb\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Project\\MediaBazaarWeb\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Stoyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -890,8 +895,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Stoyan\\Desktop\\Group project\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj"
+            "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Project\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\Project\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj"
             }
           }
         }
@@ -923,7 +928,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

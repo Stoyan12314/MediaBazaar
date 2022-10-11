@@ -28,3 +28,36 @@ C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netc
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form2.resources
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form3.resources
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.ManageShifts.resources
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.EmployeeManagment.resources
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form3.resources
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.LoginForm.resources
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.ManageShifts.resources
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.ogInForm.resources
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

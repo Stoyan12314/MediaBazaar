@@ -11,19 +11,19 @@ using MySql.Data.MySqlClient;
 
 namespace WinFormsApp1
 {
-    public partial class Form2 : Form
+    public partial class EmployeeManagment : Form
     {
         UserDB dbUser = new UserDB();
-        List<Employees> employees = new List<Employees>();
-        Employees employee;
+        List<Employee> employees = new List<Employee>();
+        Employee employee;
         public MySqlConnection sc = new MySqlConnection("Server=studmysql01.fhict.local;Uid=dbi476548_app;Database=dbi476548_app;Pwd=Welcome01;");
-        public Form2()
+        public EmployeeManagment()
         {
             InitializeComponent();
-         
+            
 
 
-            foreach (Employees e in dbUser.FetchData())
+            foreach (Employee e in dbUser.FetchData())
             {
                 lbEmployees.Items.Add(e);
             }
@@ -47,7 +47,7 @@ namespace WinFormsApp1
          
 
 
-            foreach (Employees emp in dbUser.FetchData())
+            foreach (Employee emp in dbUser.FetchData())
             {
                 lbEmployees.Items.Add(emp);
             }
@@ -57,7 +57,7 @@ namespace WinFormsApp1
         {
             if (lbEmployees.SelectedIndex != -1)
             {
-                Employees employee = (Employees)lbEmployees.SelectedItem;
+                Employee employee = (Employee)lbEmployees.SelectedItem;
                 ManageShifts fprm = new ManageShifts(dbUser, employee);
                 fprm.ShowDialog();
 
@@ -72,7 +72,7 @@ namespace WinFormsApp1
             if (int.TryParse(tbSearch.Text, out value))
             {
                 dbUser.SearchEmployeeByID(Convert.ToInt32(tbSearch.Text), employees, employee);
-                foreach (Employees em in employees)
+                foreach (Employee em in employees)
                 {
                     lbEmployees.Items.Add(em);
                 }
@@ -80,7 +80,7 @@ namespace WinFormsApp1
             else
             {
                 dbUser.SearchEmployee(tbSearch.Text, tbSearch.Text, employees, employee);
-                foreach (Employees em in employees)
+                foreach (Employee em in employees)
                 {
                     lbEmployees.Items.Add(em);
                 }

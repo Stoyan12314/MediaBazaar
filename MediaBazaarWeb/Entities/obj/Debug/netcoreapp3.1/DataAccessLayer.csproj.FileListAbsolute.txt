@@ -8,3 +8,13 @@ C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\Entities\obj\Debug\netcorea
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
 C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\bin\Debug\netcoreapp3.1\DataAccessLayer.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\bin\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\bin\Debug\netcoreapp3.1\DataAccessLayer.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\Entities\obj\Debug\netcoreapp3.1\DataAccessLayer.pdb

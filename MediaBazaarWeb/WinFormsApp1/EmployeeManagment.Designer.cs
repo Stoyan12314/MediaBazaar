@@ -87,7 +87,7 @@
             this.btnShift.UseVisualStyleBackColor = true;
             this.btnShift.Click += new System.EventHandler(this.button1_Click);
             // 
-            // Form2
+            // EmployeeManagment
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -97,7 +97,7 @@
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.tbSearch);
             this.Controls.Add(this.lbEmployees);
-            this.Name = "Form2";
+            this.Name = "EmployeeManagment";
             this.Text = "Form2";
             this.ResumeLayout(false);
             this.PerformLayout();

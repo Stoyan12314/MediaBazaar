@@ -21,7 +21,7 @@ namespace DataAccessLayer
             {
                 List<Employee> listOfEmployees = new List<Employee>();
                 sc.Open();
-                MySqlCommand command = new MySqlCommand("select user_id, user_name, user_name, last_name, shift From users", sc);
+                MySqlCommand command = new MySqlCommand("select user_id, user_name, first_name, last_name, shift From users", sc);
                 MySqlDataReader srd = command.ExecuteReader();
                
                 while (srd.Read())
@@ -62,8 +62,9 @@ namespace DataAccessLayer
                     employee = new Employee();
 
                     employee.getEmployeeID = Convert.ToInt32(srd.GetValue(0).ToString());
-                    employee.getFName = srd.GetValue(1).ToString();
-                    employee.getLName = srd.GetValue(2).ToString();
+                    employee.UserName = srd.GetValue(1).ToString();
+                    employee.getFName = srd.GetValue(2).ToString();
+                    employee.getLName = srd.GetValue(3).ToString();
 
 
                     listOfEmployees.Add(employee);
@@ -105,7 +106,7 @@ namespace DataAccessLayer
             {
 
                 sc.Open();
-                MySqlCommand command = new MySqlCommand("select user_id, user_name, user_name, last_name, shift From users WHERE user_id = '" + Id + "'", sc);
+                MySqlCommand command = new MySqlCommand("select user_id, user_name, first_name, last_name, shift From users WHERE user_id = '" + Id + "'", sc);
                 MySqlDataReader srd = command.ExecuteReader();
                 listOfEmployees.Clear();
                 while (srd.Read())

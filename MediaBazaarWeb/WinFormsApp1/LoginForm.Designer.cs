@@ -69,14 +69,15 @@ namespace WinFormsApp1
             this.tbPassword.Location = new System.Drawing.Point(79, 317);
             this.tbPassword.Multiline = true;
             this.tbPassword.Name = "tbPassword";
+            this.tbPassword.PasswordChar = '*';
             this.tbPassword.Size = new System.Drawing.Size(292, 34);
             this.tbPassword.TabIndex = 3;
             // 
             // btnLogin
             // 
-            this.btnLogin.Location = new System.Drawing.Point(79, 416);
+            this.btnLogin.Location = new System.Drawing.Point(79, 407);
             this.btnLogin.Name = "btnLogin";
-            this.btnLogin.Size = new System.Drawing.Size(292, 29);
+            this.btnLogin.Size = new System.Drawing.Size(292, 38);
             this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "LogIn";
             this.btnLogin.UseVisualStyleBackColor = true;

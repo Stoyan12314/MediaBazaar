@@ -25,7 +25,7 @@ namespace DataAccessLayer
         }
         public override string ToString()
         {
-            return this.employeeID + " " + this.userName + " " + this.shifts;
+            return this.employeeID + " " + this.userName + " " + " " + this.firstName + " " + this.lastName + " " + this.shifts;
         }
     }
 }

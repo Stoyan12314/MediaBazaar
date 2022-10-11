@@ -24,7 +24,7 @@ namespace WinFormsApp1
 
 
             foreach (Employee e in dbUser.FetchData())
-            {
+            { 
                 lbEmployees.Items.Add(e);
             }
         }
@@ -85,6 +85,11 @@ namespace WinFormsApp1
                     lbEmployees.Items.Add(em);
                 }
             }
+        }
+
+        private void tbSearch_TextChanged(object sender, EventArgs e)
+        {
+                
         }
     }
 }

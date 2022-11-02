@@ -1,0 +1,226 @@
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.exe
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.deps.json
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.runtimeconfig.dev.json
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.dll
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\ref\MediaBazaarWeb.dll
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.pdb
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.Views.dll
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.Views.pdb
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorAssemblyInfo.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorAssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\staticwebassets\MediaBazaarWeb.StaticWebAssets.Manifest.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\staticwebassets\MediaBazaarWeb.StaticWebAssets.xml
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\scopedcss\bundle\MediaBazaarWeb.styles.css
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.TagHelpers.input.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.TagHelpers.output.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorCoreGenerate.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.Views.pdb
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.dll
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\ref\MediaBazaarWeb.dll
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.pdb
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.genruntimeconfig.cache
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.CopyComplete
+C:\Users\Gebruiker\source\repos\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Sign Up.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.StaticWebAssets.xml
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.exe
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.deps.json
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.runtimeconfig.json
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.pdb
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.Views.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.Views.pdb
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.AssemblyReference.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorAssemblyInfo.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\scopedcss\bundle\MediaBazaarWeb.styles.css
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\staticwebassets\MediaBazaarWeb.StaticWebAssets.Manifest.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.TagHelpers.input.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.TagHelpers.output.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorCoreGenerate.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Sign Up.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.Views.pdb
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\refint\MediaBazaarWeb.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.pdb
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.genruntimeconfig.cache
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\ref\MediaBazaarWeb.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.CopyComplete
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\aboutus.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Employee.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\login.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\profile.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Schedule.cshtml.g.cs
+C:\Users\Stoyan\Desktop\Group project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout2.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.exe
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.runtimeconfig.dev.json
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\ref\MediaBazaarWeb.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.Views.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.Views.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\staticwebassets\MediaBazaarWeb.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\staticwebassets\MediaBazaarWeb.StaticWebAssets.xml
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\scopedcss\bundle\MediaBazaarWeb.styles.css
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.TagHelpers.input.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.TagHelpers.output.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorCoreGenerate.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\aboutus.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Employee.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\login.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\profile.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Schedule.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout2.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Sign Up.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.Views.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\ref\MediaBazaarWeb.dll
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Project\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.genruntimeconfig.cache
+<<<<<<< HEAD
+=======
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\appsettings.json
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.StaticWebAssets.xml
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.exe
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.deps.json
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.runtimeconfig.json
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.runtimeconfig.dev.json
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.pdb
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.Views.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MediaBazaarWeb.Views.pdb
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.AssemblyReference.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.AssemblyInfoInputs.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.AssemblyInfo.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorAssemblyInfo.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\scopedcss\bundle\MediaBazaarWeb.styles.css
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\staticwebassets\MediaBazaarWeb.StaticWebAssets.Manifest.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.TagHelpers.input.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.TagHelpers.output.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorCoreGenerate.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\aboutus.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Employee.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\login.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\profile.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Schedule.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_Layout2.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\Sign Up.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.Views.pdb
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.csproj.CopyComplete
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\refint\MediaBazaarWeb.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.pdb
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\MediaBazaarWeb.genruntimeconfig.cache
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\obj\Debug\net5.0\ref\MediaBazaarWeb.dll
+>>>>>>> a7e75fe (latest version with seperated layers)
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\Entities.dll
+C:\Users\Stoyan\Desktop\mediabazaar-semester-2-master\MediaBazaarWeb\MediaBazaarWeb\bin\Debug\net5.0\Entities.pdb

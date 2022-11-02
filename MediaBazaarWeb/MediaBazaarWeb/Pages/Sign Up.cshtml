@@ -1,0 +1,51 @@
+﻿@page
+@model MediaBazaarWeb.Pages.Sign_UpModel
+@{
+    ViewData["Title"] = "Sign Up page";
+}
+<link rel="stylesheet" href="css/styles.css">
+ <div class="full-screen-container">
+
+        <div class="login-container">
+            <h1 class="login-title">Welcome!</h1>
+
+            <form class="form">
+                <div class="input-group">
+                    <label for="name">First name</label>
+                    <input type="name" name="name" id="name">
+
+                </div>
+                <div class="input-group">
+                    <label for="lastName">Last Name</label>
+                    <input type="lastName" name="lastName" id="lastName">
+
+                </div>
+                <div class="input-group">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email">
+
+                </div>
+
+                <div class="input-group">
+                    <label for="password">Password</label>
+                    <input type="password" name="password" id="password">
+
+                </div>
+                <div class="input-group">
+                    <label for="password">Repeat password</label>
+                    <input type="password" name="password" id="password">
+
+                </div>
+
+                
+                <button type="submit" class="login-button">Register</button>
+
+                <a href="login.html" class="register-link">Back to login!</a>
+
+            </form>
+        </div>
+
+
+
+
+    </div>

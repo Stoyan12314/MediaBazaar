@@ -1,0 +1,17 @@
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\bin\Debug\net5.0\BuissnessLogicLayer.deps.json
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\bin\Debug\net5.0\BuissnessLogicLayer.dll
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\bin\Debug\net5.0\BuissnessLogicLayer.pdb
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\bin\Debug\net5.0\Entities.dll
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\bin\Debug\net5.0\Entities.pdb
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\BuissnessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\BuissnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\BuissnessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\BuissnessLogicLayer.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\BuissnessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\BuissnessLogicLayer.csproj.CopyComplete
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\BuissnessLogicLayer.dll
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\refint\BuissnessLogicLayer.dll
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\BuissnessLogicLayer.pdb
+C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\BuissnessLogicLayer\obj\Debug\net5.0\ref\BuissnessLogicLayer.dll

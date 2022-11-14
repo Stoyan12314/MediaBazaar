@@ -147,12 +147,13 @@ namespace DataAccessLayer
                     employee.CreateShift(shift, shiftDate);
                     listOfEmployees.Add(employee);
                 }
-
+                sc.Close();
                 return listOfEmployees;
+               
             }
             catch (Exception)
             {
-
+                sc.Close();
                 throw;
             }
 

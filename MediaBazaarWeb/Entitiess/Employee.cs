@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Entitiess;
+using Entities;
 namespace Entities
 {
    public class Employee: User

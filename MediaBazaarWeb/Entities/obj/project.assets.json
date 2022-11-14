@@ -921,11 +921,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ISSD\\Desktop\\GroupProject\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\ISSD\\Desktop\\GroupProject\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\ISSD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ISSD\\Desktop\\GroupProject\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -947,8 +947,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ISSD\\Desktop\\GroupProject\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj": {
-              "projectPath": "C:\\Users\\ISSD\\Desktop\\GroupProject\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj"
+            "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj": {
+              "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj"
             }
           }
         }

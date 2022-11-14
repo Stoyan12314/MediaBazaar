@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G9NaL8qwkj+Rqfr90Irv77opEIS9k6TnmzcBQMORc9Xl/KCj4IyDVg02SgmMqkq80EMqPB0utqPyLc33sTSuTg==",
+  "dgSpecHash": "VlxZN/QNvVWthBt9C6MqfRV3qsUrkwlngBgwM7KXGgJu/uVDdtFcvHdk8uET7MWP2nA+9K3yvon5mWxFWfb66A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ISSD\\Desktop\\GroupProject\\mediabazaar-semester-2\\MediaBazaarWeb\\WinFormsApp1\\WinFormsApp1.csproj",
+  "projectFilePath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\WinFormsApp1\\WinFormsApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ISSD\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\ISSD\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

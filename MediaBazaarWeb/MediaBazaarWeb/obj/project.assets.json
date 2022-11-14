@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net7.0": {
       "Google.Protobuf/3.19.4": {
         "type": "package",
         "compile": {
@@ -108,18 +108,18 @@
           "System.Text.Encoding.CodePages": "4.4.0"
         },
         "compile": {
-          "lib/net5.0/MySql.Data.dll": {
+          "lib/net6.0/MySql.Data.dll": {
             "related": ".xml"
           },
-          "lib/net5.0/Ubiety.Dns.Core.dll": {},
-          "lib/net5.0/ZstdNet.dll": {}
+          "lib/net6.0/Ubiety.Dns.Core.dll": {},
+          "lib/net6.0/ZstdNet.dll": {}
         },
         "runtime": {
-          "lib/net5.0/MySql.Data.dll": {
+          "lib/net6.0/MySql.Data.dll": {
             "related": ".xml"
           },
-          "lib/net5.0/Ubiety.Dns.Core.dll": {},
-          "lib/net5.0/ZstdNet.dll": {}
+          "lib/net6.0/Ubiety.Dns.Core.dll": {},
+          "lib/net6.0/ZstdNet.dll": {}
         }
       },
       "Portable.BouncyCastle/1.9.0": {
@@ -329,8 +329,9 @@
       },
       "DataAccessLayer/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Entities": "1.0.0",
           "MySql.Data": "8.0.30"
         },
         "compile": {
@@ -338,6 +339,16 @@
         },
         "runtime": {
           "bin/placeholder/DataAccessLayer.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
         }
       }
     }
@@ -908,10 +919,15 @@
       "type": "project",
       "path": "../Entities/DataAccessLayer.csproj",
       "msbuildProject": "../Entities/DataAccessLayer.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entitiess/Entities.csproj",
+      "msbuildProject": "../Entitiess/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net7.0": [
       "DataAccessLayer >= 1.0.0"
     ]
   },
@@ -923,11 +939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\MediaBazaarWeb\\MediaBazaarWeb.csproj",
+      "projectUniqueName": "C:\\Users\\ISSD\\Desktop\\Git\\MediaBazaarWeb\\MediaBazaarWeb\\MediaBazaarWeb.csproj",
       "projectName": "MediaBazaarWeb",
-      "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\MediaBazaarWeb\\MediaBazaarWeb.csproj",
+      "projectPath": "C:\\Users\\ISSD\\Desktop\\Git\\MediaBazaarWeb\\MediaBazaarWeb\\MediaBazaarWeb.csproj",
       "packagesPath": "C:\\Users\\ISSD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\MediaBazaarWeb\\obj\\",
+      "outputPath": "C:\\Users\\ISSD\\Desktop\\Git\\MediaBazaarWeb\\MediaBazaarWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -939,18 +955,18 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj"
+            "C:\\Users\\ISSD\\Desktop\\Git\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ISSD\\Desktop\\Git\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj"
             }
           }
         }
@@ -962,8 +978,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -975,24 +991,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.17, 5.0.17]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[5.0.0, 5.0.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

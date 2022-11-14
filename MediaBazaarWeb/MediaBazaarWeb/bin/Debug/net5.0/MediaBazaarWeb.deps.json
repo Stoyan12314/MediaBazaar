@@ -449,11 +449,7 @@
         }
       },
       "System.Memory/4.5.4": {},
-      "System.Runtime.CompilerServices.Unsafe/5.0.0": {
-        "compile": {
-          "ref/netstandard2.1/System.Runtime.CompilerServices.Unsafe.dll": {}
-        }
-      },
+      "System.Runtime.CompilerServices.Unsafe/5.0.0": {},
       "System.Security.AccessControl/4.7.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -495,6 +491,7 @@
       },
       "DataAccessLayer/1.0.0": {
         "dependencies": {
+          "Entities": "1.0.0",
           "MySql.Data": "8.0.30"
         },
         "runtime": {
@@ -502,6 +499,14 @@
         },
         "compile": {
           "DataAccessLayer.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
+        },
+        "compile": {
+          "Entities.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2344,6 +2349,11 @@
       "hashPath": "system.windows.extensions.4.7.0.nupkg.sha512"
     },
     "DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

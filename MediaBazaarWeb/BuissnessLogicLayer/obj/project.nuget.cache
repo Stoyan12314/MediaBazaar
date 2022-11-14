@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/1sT23oSNBPdgGHisAXpS8D594bFfZrWQNOld8LH4GwYpHm++sKGJT26H0UMlHyuwyv2F3B/XXqd+EMJind4Sw==",
+  "dgSpecHash": "QzfHh5GQ4ArAozPC+UCAItr62I9ImAyPWI2co+CmJc9Nw2XpmVg6eXbXDFGeD4HKv6BvcaP7kGUHgrqm9ZyTxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj",
+  "projectFilePath": "C:\\Users\\ISSD\\Desktop\\Git\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ISSD\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\ISSD\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

@@ -13,3 +13,11 @@ C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\Entitie
 C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\Entities\obj\Debug\net7.0\refint\DataAccessLayer.dll
 C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\Entities\obj\Debug\net7.0\DataAccessLayer.pdb
 C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\Entities\obj\Debug\net7.0\ref\DataAccessLayer.dll
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entities\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entities\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entities\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entities\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entities\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entities\obj\Debug\net7.0\DataAccessLayer.dll
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entities\obj\Debug\net7.0\refint\DataAccessLayer.dll
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entities\obj\Debug\net7.0\DataAccessLayer.pdb

@@ -10,3 +10,15 @@ C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\Entitie
 C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\refint\Entities.dll
 C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\Entities.pdb
 C:\Users\ISSD\Desktop\GroupProject\mediabazaar-semester-2\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\bin\Debug\net7.0\Entities.deps.json
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\bin\Debug\net7.0\Entities.dll
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\bin\Debug\net7.0\Entities.pdb
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\Entities.dll
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\Entities.pdb
+C:\Users\ISSD\Desktop\Git\MediaBazaarWeb\Entitiess\obj\Debug\net7.0\ref\Entities.dll

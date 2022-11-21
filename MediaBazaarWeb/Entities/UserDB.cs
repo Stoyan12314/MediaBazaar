@@ -130,7 +130,7 @@ namespace DataAccessLayer
             {
                 List<Employee> listOfEmployees = new List<Employee>();
                 sc.Open();
-                MySqlCommand command = new MySqlCommand("select user_id, user_name, first_name, last_name, shift, day_shift From users WHERE user_id = '" + Id + "'", sc);
+                MySqlCommand command = new MySqlCommand("select user_id, user_name, first_name, last_name From users WHERE user_id = '" + Id + "'", sc); //divide the shifts
                 MySqlDataReader srd = command.ExecuteReader();
                 listOfEmployees.Clear();
                 while (srd.Read())
@@ -142,9 +142,9 @@ namespace DataAccessLayer
                     employee.UserName = srd.GetValue(1).ToString();
                     employee.getFName = srd.GetValue(2).ToString();
                     employee.getLName = srd.GetValue(3).ToString();
-                    ShiftType shift = (ShiftType)Enum.Parse(typeof(ShiftType), srd["shift"].ToString());
-                    DateTime shiftDate = Convert.ToDateTime(srd.GetValue(10).ToString());
-                    employee.CreateShift(shift, shiftDate);
+                //    ShiftType shift = (ShiftType)Enum.Parse(typeof(ShiftType), srd["shift"].ToString());
+                  //  DateTime shiftDate = Convert.ToDateTime(srd.GetValue(10).ToString());
+                  //  employee.CreateShift(shift, shiftDate);
                     listOfEmployees.Add(employee);
                 }
                 sc.Close();

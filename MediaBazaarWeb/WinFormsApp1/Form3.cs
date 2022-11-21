@@ -50,5 +50,10 @@ namespace WinFormsApp1
             stckfrm.Show();
             
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

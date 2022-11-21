@@ -38,7 +38,7 @@
             // 
             this.btnEmployees.Image = global::WinFormsApp1.Properties.Resources.management;
             this.btnEmployees.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnEmployees.Location = new System.Drawing.Point(12, 32);
+            this.btnEmployees.Location = new System.Drawing.Point(12, 12);
             this.btnEmployees.Name = "btnEmployees";
             this.btnEmployees.Size = new System.Drawing.Size(153, 105);
             this.btnEmployees.TabIndex = 0;
@@ -51,7 +51,7 @@
             // 
             this.btnShifts.Image = global::WinFormsApp1.Properties.Resources.organization;
             this.btnShifts.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnShifts.Location = new System.Drawing.Point(194, 32);
+            this.btnShifts.Location = new System.Drawing.Point(207, 12);
             this.btnShifts.Name = "btnShifts";
             this.btnShifts.Size = new System.Drawing.Size(153, 105);
             this.btnShifts.TabIndex = 2;
@@ -64,7 +64,7 @@
             // 
             this.btnStock.Image = global::WinFormsApp1.Properties.Resources.traveler_with_a_suitcase;
             this.btnStock.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnStock.Location = new System.Drawing.Point(396, 32);
+            this.btnStock.Location = new System.Drawing.Point(394, 12);
             this.btnStock.Name = "btnStock";
             this.btnStock.Size = new System.Drawing.Size(153, 105);
             this.btnStock.TabIndex = 3;
@@ -77,7 +77,7 @@
             // 
             this.btnExit.Image = global::WinFormsApp1.Properties.Resources.exit;
             this.btnExit.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnExit.Location = new System.Drawing.Point(194, 183);
+            this.btnExit.Location = new System.Drawing.Point(207, 155);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(153, 105);
             this.btnExit.TabIndex = 4;
@@ -90,13 +90,14 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(583, 305);
+            this.ClientSize = new System.Drawing.Size(559, 284);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnStock);
             this.Controls.Add(this.btnShifts);
             this.Controls.Add(this.btnEmployees);
             this.Name = "Form3";
             this.Text = "Form3";
+            this.Load += new System.EventHandler(this.Form3_Load);
             this.ResumeLayout(false);
 
         }

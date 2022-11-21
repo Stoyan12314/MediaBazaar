@@ -29,7 +29,7 @@ namespace WinFormsApp1
             tbAddress.Text = emp.Address;
             tbPassword.Text = emp.Password;
             tbEmail.Text = emp.Email;
-            tbDateOfBirth.Text = emp.DateOfBirh.ToString();
+            DateTimePickerBirth.Value = emp.DateOfBirh;
             cbPossitions.Text = emp.AccType.ToString();
         }
 
@@ -42,6 +42,16 @@ namespace WinFormsApp1
         private void btnExit_Click(object sender, EventArgs e)
         {
             this.Close();
+
+        }
+
+        private void DateTimePickerBirth_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
 
         }
     }

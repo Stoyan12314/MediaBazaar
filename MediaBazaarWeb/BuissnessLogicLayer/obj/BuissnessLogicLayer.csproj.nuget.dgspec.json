@@ -1,25 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj": {}
+    "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj": {
+    "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj",
         "projectName": "BuissnessLogicLayer",
-        "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj",
-        "packagesPath": "C:\\Users\\ISSD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\BuissnessLogicLayer\\obj\\",
+        "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\BuissnessLogicLayer\\BuissnessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\Stoyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\BuissnessLogicLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ISSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Stoyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -33,11 +28,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj"
+              "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entitiess\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entitiess\\Entities.csproj"
               },
-              "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj"
+              "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj"
               }
             }
           }
@@ -71,22 +66,17 @@
         }
       }
     },
-    "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj": {
+    "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entitiess\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entitiess\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj",
-        "packagesPath": "C:\\Users\\ISSD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\obj\\",
+        "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entitiess\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Stoyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entitiess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ISSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Stoyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -131,22 +121,17 @@
         }
       }
     },
-    "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
+    "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\ISSD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Stoyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ISSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Stoyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,8 +145,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj": {
-                "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entitiess\\Entities.csproj"
+              "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entitiess\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entitiess\\Entities.csproj"
               }
             }
           }

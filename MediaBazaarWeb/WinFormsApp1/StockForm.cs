@@ -80,5 +80,10 @@ namespace WinFormsApp1
             }
             return;
         }
+
+        private void dgvStocks_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

@@ -7,13 +7,14 @@ namespace Entities
 {
     public class Shift
     {
-        private ShiftType shiftType;
-        private DateTime dayShift;
-
-        public Shift(ShiftType shiftType, DateTime dayShift)
+        public ShiftType shiftType { private set;  get; }
+        public DateTime dayShift { private set; get; }
+        public int employeeId { private set; get; }
+        public Shift(int employee_id, ShiftType shiftType, DateTime dayShift)
         {
             this.shiftType = shiftType;
             this.dayShift = dayShift;
+            this.employeeId= employee_id;
         }
     }
 }

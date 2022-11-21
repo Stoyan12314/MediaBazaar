@@ -932,26 +932,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ISSD\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Stoyan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\MediaBazaarWeb\\MediaBazaarWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\MediaBazaarWeb\\MediaBazaarWeb.csproj",
       "projectName": "MediaBazaarWeb",
-      "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\MediaBazaarWeb\\MediaBazaarWeb.csproj",
-      "packagesPath": "C:\\Users\\ISSD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\MediaBazaarWeb\\obj\\",
+      "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\MediaBazaarWeb\\MediaBazaarWeb.csproj",
+      "packagesPath": "C:\\Users\\Stoyan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\MediaBazaarWeb\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ISSD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Stoyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -965,8 +958,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\ISSD\\Desktop\\Test\\mediabazaar-semester-2\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj"
+            "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Stoyan\\Desktop\\Group project For tommorow\\MediaBazaarWeb\\Entities\\DataAccessLayer.csproj"
             }
           }
         }

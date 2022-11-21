@@ -33,6 +33,7 @@ namespace Entities
             this.email = email;
             this.dateOfBirh = dateOfBirh;
             this.accType = accType;
+           
         }
         public User(string username, string password)
         {
@@ -95,10 +96,10 @@ namespace Entities
             get { return accType; }
             set { accType = value; }
         }
-        //public Shifts GetShifts
+        //public ShiftType GetShifts
         //{
-        //    get { return shifts; }
-        //    set { shifts = value; }
+        //    get { return shiftType; }
+        //    set { shiftType = value; }
         //}
     }
 }

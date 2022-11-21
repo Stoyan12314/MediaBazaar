@@ -32,10 +32,10 @@ namespace BuissnessLogicLayer
         {
            userDB.UpdateShift(employee, shift, date);
         }
-        public void SearchEmployeeByID(int Id,  Employee employee)
+        public List<Employee> SearchEmployeeByID(int Id,  Employee employee)
         {
 
-          userDB.SearchEmployeeByID(Id,  employee); 
+          return userDB.SearchEmployeeByID(Id,  employee); 
         }
         public void UpdateCredentials(Employee emp)
         {

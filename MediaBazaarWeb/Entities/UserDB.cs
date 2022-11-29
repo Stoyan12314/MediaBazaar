@@ -245,7 +245,7 @@ namespace DataAccessLayer
             try
             {
                 sc.Open();
-                var cmd = new MySqlCommand("UPDATE users SET user_name = @user_name, first_name = @first_name, last_name = @last_name, address = @address, password = @password, email = @email, date of birth = @date_of_birth, accountType = @accType WHERE user_id = @id", sc);
+                var cmd = new MySqlCommand("UPDATE users SET user_name = @user_name, first_name = @first_name, last_name = @last_name, address = @address, password = @password, email = @email, dateofbirth = @dateofbirth, accountType = @accType WHERE user_id = @id", sc);
                 cmd.Parameters.AddWithValue("@id", emp.getEmployeeID);
                 cmd.Parameters.AddWithValue("@user_name", emp.UserName);
                 cmd.Parameters.AddWithValue("@first_name", emp.getFName);
@@ -253,7 +253,7 @@ namespace DataAccessLayer
                 cmd.Parameters.AddWithValue("@address", emp.Address);
                 cmd.Parameters.AddWithValue("@password", emp.Password);
                 cmd.Parameters.AddWithValue("@email", emp.Email);
-                cmd.Parameters.AddWithValue("@date of birth", emp.DateOfBirh);
+                cmd.Parameters.AddWithValue("@dateofbirth", emp.DateOfBirh);
                 cmd.Parameters.AddWithValue("@accType", emp.AccType.ToString());
 
                 cmd.ExecuteNonQuery();

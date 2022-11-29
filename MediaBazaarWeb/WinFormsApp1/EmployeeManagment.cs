@@ -140,7 +140,7 @@ namespace WinFormsApp1
             {
                 ShiftType accType = Enum.Parse<ShiftType>(cbShiftType.Text);
                 shiftManager.SetShift(employee.getEmployeeID, accType, tbDate.Text);
-
+                MessageBox.Show("Shift Added!");
             }
         }
 

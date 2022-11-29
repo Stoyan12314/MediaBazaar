@@ -43,21 +43,28 @@ namespace WinFormsApp1
         }
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            int index = e.RowIndex;
-            DataGridViewRow selectedRow = dataGridView1.Rows[index];
-            int id = (int)selectedRow.Cells[0].Value;
-            Employee employee = FindEmployee(id);
-            if (employee == null)
+            if (e.ColumnIndex == 2)
             {
+                int index = e.RowIndex;
+                DataGridViewRow selectedRow = dataGridView1.Rows[index];
+                int id = (int)selectedRow.Cells[0].Value;
+                Employee employee = FindEmployee(id);
+                if (employee == null)
+                {
+
+                }
+                else
+                {
+                    EditUsers newForm = new EditUsers(employee);
+                    newForm.ShowDialog();
+                }
 
             }
             else
             {
-                EditUsers newForm = new EditUsers(employee);
-                newForm.ShowDialog();
+                MessageBox.Show("Click the \"Edit\" button! ");
             }
 
-           
         }
     }
 }

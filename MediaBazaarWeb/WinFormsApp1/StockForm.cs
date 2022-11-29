@@ -33,6 +33,7 @@ namespace WinFormsApp1
         }
         private void btnAddstock_Click(object sender, EventArgs e)
         {
+            addStock = new AddStockForm(this);
             addStock.Clear();
             addStock.ShowDialog();
             
@@ -68,9 +69,16 @@ namespace WinFormsApp1
             {
                 try
                 {
-                    MessageBox.Show("Are you sure you want to delete this stock?", "Information", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Information);
-                    stockMng.DeleteStock(dgvStocks.Rows[e.RowIndex].Cells[2].Value.ToString());
-                    Display();
+                    DialogResult dr = MessageBox.Show("Are you sure you want to delete this stock?", "Information", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+                    if (dr == DialogResult.Yes)
+                    {
+                        stockMng.DeleteStock(dgvStocks.Rows[e.RowIndex].Cells[2].Value.ToString());
+                        Display();
+                    }
+                    else if (dr == DialogResult.No || dr == DialogResult.Cancel)
+                    {
+
+                    }
                 }
                 catch(Exception ex)
                 {

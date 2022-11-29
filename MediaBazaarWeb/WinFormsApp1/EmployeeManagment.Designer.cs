@@ -63,24 +63,29 @@
             // 
             // btnAll
             // 
+            this.btnAll.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnAll.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnAll.ForeColor = System.Drawing.Color.White;
             this.btnAll.Location = new System.Drawing.Point(509, 27);
             this.btnAll.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnAll.Name = "btnAll";
             this.btnAll.Size = new System.Drawing.Size(163, 40);
             this.btnAll.TabIndex = 7;
             this.btnAll.Text = "Show all";
-            this.btnAll.UseVisualStyleBackColor = true;
+            this.btnAll.UseVisualStyleBackColor = false;
             this.btnAll.Click += new System.EventHandler(this.btnAll_Click);
             // 
             // btnSearch
             // 
+            this.btnSearch.BackColor = System.Drawing.SystemColors.Info;
+            this.btnSearch.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnSearch.Location = new System.Drawing.Point(307, 27);
             this.btnSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(163, 40);
             this.btnSearch.TabIndex = 6;
             this.btnSearch.Text = "Search";
-            this.btnSearch.UseVisualStyleBackColor = true;
+            this.btnSearch.UseVisualStyleBackColor = false;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click_2);
             // 
             // tbSearch
@@ -94,21 +99,26 @@
             // 
             // btnShift
             // 
+            this.btnShift.BackColor = System.Drawing.Color.Plum;
+            this.btnShift.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnShift.ForeColor = System.Drawing.Color.White;
             this.btnShift.Location = new System.Drawing.Point(709, 27);
             this.btnShift.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnShift.Name = "btnShift";
             this.btnShift.Size = new System.Drawing.Size(163, 40);
             this.btnShift.TabIndex = 8;
             this.btnShift.Text = "Assign shift";
-            this.btnShift.UseVisualStyleBackColor = true;
+            this.btnShift.UseVisualStyleBackColor = false;
             this.btnShift.Click += new System.EventHandler(this.button1_Click);
             // 
             // monthCalendar1
             // 
+            this.monthCalendar1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.monthCalendar1.Location = new System.Drawing.Point(28, 95);
             this.monthCalendar1.MaxSelectionCount = 1;
             this.monthCalendar1.Name = "monthCalendar1";
             this.monthCalendar1.TabIndex = 16;
+            this.monthCalendar1.TrailingForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.monthCalendar1.DateChanged += new System.Windows.Forms.DateRangeEventHandler(this.monthCalendar1_DateChanged);
             // 
             // groupBox1
@@ -143,12 +153,15 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Location = new System.Drawing.Point(66, 113);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 29);
             this.button1.TabIndex = 4;
             this.button1.Text = "Set shift";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // cbShiftType
@@ -174,12 +187,15 @@
             // 
             // button2
             // 
+            this.button2.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.button2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.Location = new System.Drawing.Point(88, 717);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(117, 44);
+            this.button2.Size = new System.Drawing.Size(117, 31);
             this.button2.TabIndex = 5;
             this.button2.Text = "See shift";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // monthCalendar2
@@ -193,6 +209,7 @@
             // 
             // dataGridViewEmployees
             // 
+            this.dataGridViewEmployees.BackgroundColor = System.Drawing.Color.White;
             this.dataGridViewEmployees.BorderStyle = System.Windows.Forms.BorderStyle.None;
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle1.BackColor = System.Drawing.Color.DodgerBlue;
@@ -212,6 +229,7 @@
             this.dataGridViewEmployees.Location = new System.Drawing.Point(307, 95);
             this.dataGridViewEmployees.Name = "dataGridViewEmployees";
             this.dataGridViewEmployees.ReadOnly = true;
+            this.dataGridViewEmployees.RowHeadersVisible = false;
             this.dataGridViewEmployees.RowHeadersWidth = 51;
             this.dataGridViewEmployees.RowTemplate.Height = 29;
             this.dataGridViewEmployees.Size = new System.Drawing.Size(739, 384);
@@ -260,6 +278,7 @@
             // 
             // dataGridViewEmployeesShifts
             // 
+            this.dataGridViewEmployeesShifts.BackgroundColor = System.Drawing.Color.White;
             this.dataGridViewEmployeesShifts.BorderStyle = System.Windows.Forms.BorderStyle.None;
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle2.BackColor = System.Drawing.Color.DodgerBlue;
@@ -279,6 +298,7 @@
             this.dataGridViewEmployeesShifts.Location = new System.Drawing.Point(307, 498);
             this.dataGridViewEmployeesShifts.Name = "dataGridViewEmployeesShifts";
             this.dataGridViewEmployeesShifts.ReadOnly = true;
+            this.dataGridViewEmployeesShifts.RowHeadersVisible = false;
             this.dataGridViewEmployeesShifts.RowHeadersWidth = 51;
             this.dataGridViewEmployeesShifts.RowTemplate.Height = 29;
             this.dataGridViewEmployeesShifts.Size = new System.Drawing.Size(739, 384);
@@ -327,12 +347,15 @@
             // 
             // btnDeleteShift
             // 
-            this.btnDeleteShift.Location = new System.Drawing.Point(88, 779);
+            this.btnDeleteShift.BackColor = System.Drawing.Color.LightCoral;
+            this.btnDeleteShift.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnDeleteShift.ForeColor = System.Drawing.Color.White;
+            this.btnDeleteShift.Location = new System.Drawing.Point(88, 754);
             this.btnDeleteShift.Name = "btnDeleteShift";
-            this.btnDeleteShift.Size = new System.Drawing.Size(117, 44);
+            this.btnDeleteShift.Size = new System.Drawing.Size(117, 32);
             this.btnDeleteShift.TabIndex = 22;
             this.btnDeleteShift.Text = "Delete shift";
-            this.btnDeleteShift.UseVisualStyleBackColor = true;
+            this.btnDeleteShift.UseVisualStyleBackColor = false;
             this.btnDeleteShift.Click += new System.EventHandler(this.btnDeleteShift_Click);
             // 
             // EmployeeManagment

@@ -52,7 +52,7 @@
             // lbusername
             // 
             this.lbusername.AutoSize = true;
-            this.lbusername.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.lbusername.BackColor = System.Drawing.Color.LemonChiffon;
             this.lbusername.Location = new System.Drawing.Point(30, 68);
             this.lbusername.Name = "lbusername";
             this.lbusername.Size = new System.Drawing.Size(73, 20);
@@ -62,7 +62,7 @@
             // lbfirstName
             // 
             this.lbfirstName.AutoSize = true;
-            this.lbfirstName.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.lbfirstName.BackColor = System.Drawing.Color.LemonChiffon;
             this.lbfirstName.Location = new System.Drawing.Point(30, 113);
             this.lbfirstName.Name = "lbfirstName";
             this.lbfirstName.Size = new System.Drawing.Size(75, 20);
@@ -72,7 +72,7 @@
             // lbLastName
             // 
             this.lbLastName.AutoSize = true;
-            this.lbLastName.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.lbLastName.BackColor = System.Drawing.Color.LemonChiffon;
             this.lbLastName.Location = new System.Drawing.Point(30, 164);
             this.lbLastName.Name = "lbLastName";
             this.lbLastName.Size = new System.Drawing.Size(73, 20);
@@ -82,7 +82,7 @@
             // lbAddress
             // 
             this.lbAddress.AutoSize = true;
-            this.lbAddress.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.lbAddress.BackColor = System.Drawing.Color.LemonChiffon;
             this.lbAddress.Location = new System.Drawing.Point(30, 209);
             this.lbAddress.Name = "lbAddress";
             this.lbAddress.Size = new System.Drawing.Size(60, 20);
@@ -92,7 +92,7 @@
             // lbpassword
             // 
             this.lbpassword.AutoSize = true;
-            this.lbpassword.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.lbpassword.BackColor = System.Drawing.Color.LemonChiffon;
             this.lbpassword.Location = new System.Drawing.Point(30, 264);
             this.lbpassword.Name = "lbpassword";
             this.lbpassword.Size = new System.Drawing.Size(72, 20);
@@ -102,7 +102,7 @@
             // lbEmail
             // 
             this.lbEmail.AutoSize = true;
-            this.lbEmail.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.lbEmail.BackColor = System.Drawing.Color.LemonChiffon;
             this.lbEmail.Location = new System.Drawing.Point(30, 311);
             this.lbEmail.Name = "lbEmail";
             this.lbEmail.Size = new System.Drawing.Size(46, 20);
@@ -112,7 +112,7 @@
             // lbDateOfBirth
             // 
             this.lbDateOfBirth.AutoSize = true;
-            this.lbDateOfBirth.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.lbDateOfBirth.BackColor = System.Drawing.Color.LemonChiffon;
             this.lbDateOfBirth.Location = new System.Drawing.Point(30, 353);
             this.lbDateOfBirth.Name = "lbDateOfBirth";
             this.lbDateOfBirth.Size = new System.Drawing.Size(96, 20);
@@ -122,7 +122,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.label9.BackColor = System.Drawing.Color.LemonChiffon;
             this.label9.Location = new System.Drawing.Point(30, 394);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(61, 20);
@@ -131,42 +131,42 @@
             // 
             // tbUsername
             // 
-            this.tbUsername.Location = new System.Drawing.Point(111, 61);
+            this.tbUsername.Location = new System.Drawing.Point(132, 61);
             this.tbUsername.Name = "tbUsername";
             this.tbUsername.Size = new System.Drawing.Size(125, 27);
             this.tbUsername.TabIndex = 10;
             // 
             // tbFirstName
             // 
-            this.tbFirstName.Location = new System.Drawing.Point(111, 110);
+            this.tbFirstName.Location = new System.Drawing.Point(132, 110);
             this.tbFirstName.Name = "tbFirstName";
             this.tbFirstName.Size = new System.Drawing.Size(125, 27);
             this.tbFirstName.TabIndex = 11;
             // 
             // tbLastName
             // 
-            this.tbLastName.Location = new System.Drawing.Point(111, 161);
+            this.tbLastName.Location = new System.Drawing.Point(132, 161);
             this.tbLastName.Name = "tbLastName";
             this.tbLastName.Size = new System.Drawing.Size(125, 27);
             this.tbLastName.TabIndex = 12;
             // 
             // tbAddress
             // 
-            this.tbAddress.Location = new System.Drawing.Point(111, 206);
+            this.tbAddress.Location = new System.Drawing.Point(132, 206);
             this.tbAddress.Name = "tbAddress";
             this.tbAddress.Size = new System.Drawing.Size(125, 27);
             this.tbAddress.TabIndex = 13;
             // 
             // tbPassword
             // 
-            this.tbPassword.Location = new System.Drawing.Point(111, 261);
+            this.tbPassword.Location = new System.Drawing.Point(132, 257);
             this.tbPassword.Name = "tbPassword";
             this.tbPassword.Size = new System.Drawing.Size(125, 27);
             this.tbPassword.TabIndex = 14;
             // 
             // tbEmail
             // 
-            this.tbEmail.Location = new System.Drawing.Point(111, 308);
+            this.tbEmail.Location = new System.Drawing.Point(132, 308);
             this.tbEmail.Name = "tbEmail";
             this.tbEmail.Size = new System.Drawing.Size(125, 27);
             this.tbEmail.TabIndex = 15;
@@ -178,15 +178,16 @@
             "Employee",
             "Manager",
             "Depot_worker"});
-            this.cbPossitions.Location = new System.Drawing.Point(111, 391);
+            this.cbPossitions.Location = new System.Drawing.Point(132, 394);
             this.cbPossitions.Name = "cbPossitions";
             this.cbPossitions.Size = new System.Drawing.Size(125, 28);
             this.cbPossitions.TabIndex = 18;
             // 
             // btnSave
             // 
-            this.btnSave.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.btnSave.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.btnSave.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.btnSave.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnSave.ForeColor = System.Drawing.Color.White;
             this.btnSave.Location = new System.Drawing.Point(94, 451);
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(94, 29);
@@ -197,7 +198,9 @@
             // 
             // btnExit
             // 
-            this.btnExit.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.btnExit.BackColor = System.Drawing.Color.LightCoral;
+            this.btnExit.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnExit.ForeColor = System.Drawing.Color.White;
             this.btnExit.Location = new System.Drawing.Point(94, 486);
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(94, 29);
@@ -217,7 +220,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.label1.BackColor = System.Drawing.Color.CornflowerBlue;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(12, 9);

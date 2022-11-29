@@ -13,6 +13,7 @@ namespace WinFormsApp1
     {
         Employee emp;
         UserManager empManagment;
+        Employee upEmp;
         public EditUsers(Employee emp)
         {
             InitializeComponent();
@@ -22,7 +23,7 @@ namespace WinFormsApp1
         }
         public void UpdateInfo()
         {
-           
+
             tbUsername.Text = emp.UserName;
             tbFirstName.Text = emp.getFName;
             tbLastName.Text = emp.getLName;
@@ -35,7 +36,10 @@ namespace WinFormsApp1
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            empManagment.UpdateCredentials(emp);
+            AccountType accType = Enum.Parse<AccountType>(cbPossitions.Text);
+            upEmp = new Employee(emp.getEmployeeID, tbUsername.Text, tbFirstName.Text, tbLastName.Text, tbAddress.Text, tbPassword.Text, tbEmail.Text, DateTimePickerBirth.Value, accType);
+
+            empManagment.UpdateCredentials(upEmp);
             this.Close();
         }
 
